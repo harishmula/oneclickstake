@@ -75,7 +75,7 @@ section {
 
 #ern {
     background-image: url(Backgrounds.svg);
-    /* background-position: center; */
+    background-position: bottom; 
     background-size: cover;
     background-repeat: no-repeat;
 }
