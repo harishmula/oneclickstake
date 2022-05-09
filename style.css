@@ -75,9 +75,8 @@ section {
 
 #ern {
     background-image: url(Backgrounds.svg);
-    background-position: bottom; 
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: round;
 }
 
 .apy {
